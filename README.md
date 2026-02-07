@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **samuelnvtn/samuelnvtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🕴️ I'm Samuel Novotný.
+- 🌱 I’m currently learning Android dev (Kotlin, Jetpack Compose, Hilt, Room, Datastore, Google Maps...)
+- 🏃‍♂️‍➡️ I’m looking to collaborate on projects.
+- ✉️ Reach me at gh, ln or wherever else.
+
