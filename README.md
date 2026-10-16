@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🌱 Currently learning Android/iOS dev
 - 🏃‍♂️‍➡️ Looking to collaborate on projects.
 - ✉️ Reach me at gh, ln or wherever else.
+- 👇 Check my latest projects.
