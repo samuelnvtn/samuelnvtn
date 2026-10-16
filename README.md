@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🕴️ I'm Samuel Novotný.
-- 🌱 I’m currently learning Android/iOS dev
-- (Kotlin, Jetpack Compose, Hilt, Room, Datastore, Google Maps...)
-- (Swift, SwiftUI, CoreData, Maps...)
-- 🏃‍♂️‍➡️ I’m looking to collaborate on projects.
+- 🌱 Currently learning Android/iOS dev
+- 🏃‍♂️‍➡️ Looking to collaborate on projects.
 - ✉️ Reach me at gh, ln or wherever else.
-
