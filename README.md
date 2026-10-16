@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🕴️ I'm Samuel Novotný.
-- 🌱 Currently learning Android/iOS dev
+- 🕴️ I'm Samuel Novotný - Junior Native Mobile Developer.
+- 🌱 Currently working on my Android/iOS dev skills.
 - 🏃‍♂️‍➡️ Looking to collaborate on projects.
 - ✉️ Reach me at gh, ln or wherever else.
 - 👇 Check my latest projects.
